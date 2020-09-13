@@ -24,6 +24,7 @@
 ## Test
 - File -> Examples -> Examples from Custom Libraries -> M5Stack -> Game -> Tetris
 - Compile and Upload
+- Baud rate is 115200
 
 ## references
 - https://docs.m5stack.com/#/en/arduino/arduino_development
